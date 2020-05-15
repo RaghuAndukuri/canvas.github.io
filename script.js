@@ -1,5 +1,4 @@
 // JavaScript Document
-$.noConflict();
 	$(document).ready(function(){
       $(".carousel").slick({
 		  dots: true,
